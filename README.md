@@ -1,5 +1,6 @@
 # taskapi
-#### username: bon, password: 123456
+#### (github page) username: bon, password: 123456
+#### backend: https://github.com/huylequang210/taskapi
 ## Project setup
 ```
 npm install
